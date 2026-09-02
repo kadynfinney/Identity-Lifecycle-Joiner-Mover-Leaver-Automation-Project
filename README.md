@@ -4,12 +4,6 @@
 
 > PowerShell automation for the full identity lifecycle — **Joiner, Mover, Leaver** — across a hybrid **Active Directory + Microsoft Entra ID** environment, with role-based provisioning, privilege-creep reconciliation, and identity governance reporting.
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0067B8?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-2C2C32?style=flat-square&logo=microsoft&logoColor=white)
-![Type](https://img.shields.io/badge/Type-Lab%20Project-informational?style=flat-square)
-
 ---
 
 ## Table of Contents
