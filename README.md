@@ -2,7 +2,7 @@
 
 # Identity Lifecycle Engine
 
-> PowerShell automation for the full identity lifecycle — **Joiner, Mover, Leaver** — across a hybrid **Active Directory + Microsoft Entra ID** environment, with role-based provisioning, privilege-creep reconciliation, and identity governance reporting.
+> PowerShell automation for the full identity lifecycle — **Joiner, Mover, Leaver** — across a hybrid **Active Directory + Microsoft Entra ID** environment, with role-based provisioning, privilege-creep reconciliation, and identity governance reporting
 
 ---
 
